@@ -1,0 +1,165 @@
+
+
+
+.footer
+{
+	background:url("../images/footore_img.jpg") no-repeat center top #0E0A07;
+	min-height:329px;
+	margin-top:1%;
+}
+
+
+
+.f1
+{
+	background: none repeat scroll 0 0 #fff;
+    min-height: 256px;
+	margin-top:12%;
+	padding:1% 0 0 3%;
+
+}
+.f2
+{
+	background: none repeat scroll 0 0 #fff;
+    min-height: 256px;
+	margin-top:12%;
+	padding:1% 0 0 3%;
+
+}
+.f1 h4 {
+text-align:center;
+}
+.weather-img ul li {
+list-style:none;
+}
+.celcius h4 {
+text-align:left;
+padding-left:2%;
+}
+#social ul li
+{
+	list-style-type:none;
+	padding:2.5%;
+
+}
+#list {
+padding-left:1%;
+}
+#social ul li a
+{
+	text-decoration:none;
+	color:black;
+	padding-left:10%;
+}
+#social ul li a:hover
+{
+	color:orange;
+	font-weight:bold;
+}
+
+
+
+#last-content-footer
+{
+	background:#000000;
+}
+
+#last-content-footer ul li
+{
+	list-style:none;
+	float: left;
+	padding-left: 7px;
+}
+
+#last-content-footer ul span
+{
+	float: left;
+	color: #666465;
+	padding-left: 7px;
+}
+
+#last-content-footer ul li a
+{
+	 border-right: 1px solid white;
+    color: #666465;
+    padding: 0 8px;
+}
+#foot-list
+{
+	padding: 2% 0;
+    text-align: center;
+}
+
+
+#top-footer
+{
+	background: #323232;
+}
+
+#top-footer ul li
+{
+	float: left;
+	list-style: none;
+	color: #fff;
+	padding: 5px 57px 5px 0;
+	font-size: 17px;
+	margin-left: -4.3%;
+}
+
+#footer
+{
+	background:#4A4A4A;
+	color: #A6A4A5;
+}
+
+#footer-4{
+    background: none repeat scroll 0 0 #4a4a4a;
+    padding-bottom: 7px;
+    padding-top: 18px;
+}
+#copy {
+     color:#B4B2B3;
+     padding-bottom: 15px;
+     padding-top: 8px;
+}
+#power {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #000;
+
+    font-family: 'Roboto Condensed',sans-serif;
+    font-size: 12px !important;
+    font-weight: lighter;
+
+    text-align: center;
+    text-decoration: none;
+	padding:8px 0;
+
+}
+#power:hover {
+    background-color: #FFFFFF;
+    color: #000000;
+    text-decoration: none;
+}
+#power:hover > .power {
+    color: #000000;
+    text-decoration: none;
+}
+.power {
+    color: #000 !important;
+    font-family: 'Roboto Condensed',sans-serif;
+    font-size: 12px !important;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    line-height: inherit;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.power span {
+    color: #009900;
+}
+.subscribe {
+float:right;
+}

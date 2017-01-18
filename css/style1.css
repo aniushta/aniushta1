@@ -1,0 +1,116 @@
+.top {
+background:#1B2C7C;
+}
+.fb1 ul li {
+list-style:none;
+float:left;
+text-align:center;
+padding:5% 1% 0 3% ;
+
+}
+.fb {
+ padding-left: 55%
+}
+.home {
+	background:url(about-us-bg.png) no-repeat;
+	min-height:29px;
+	width:100%;
+	}
+#menu {
+line-height:10%;
+}
+
+.navbar
+{
+
+	font-size:14px;
+
+}
+#my-nav
+{
+
+	background: #1B2C7C;
+	border:1px solid #1B2C7C;
+}
+#my-nav ul li a
+{
+	background:url("../victron/menu-bg.png") no-repeat;
+	color:white;
+	font-weight: bold;
+	padding-top:3%;
+}
+
+.nav.navbar-nav > li {
+    padding-left:46px;
+	padding-top:1%;
+}
+
+
+
+
+.logo1 {
+position:absolute;
+width:100%;
+border-bottom:8px solid #1C2B7C;
+}
+.logo2 {
+position:absolute;
+width:100%;
+
+}
+
+.logo {
+float:right;
+
+}
+.logo3 {
+margin-top:50%;
+}
+.mid-content{
+
+padding:38% 0 0 3%;
+display:table;
+}
+.clr {
+clear:both;
+}
+#l {
+padding-top:47%;
+}
+#r {
+padding-top:47%;
+}
+.mid-details h2 {
+text-align:center;
+}
+.mid-details {
+border-bottom:3px solid #838287;
+
+}
+.mid-details1 h4 {
+text-align:justify;
+padding:1%;
+}
+.cus {
+padding:8%;
+
+}
+.customers {
+background:#182A8A;
+//min-height:100px;
+
+}
+.name h4{
+text-align:center;
+margin-top:10%;
+}
+.footer {
+background:#282828;
+min-height:60px;
+margin-top:3%;
+}
+.copyrights h4 {
+text-align:center;
+padding-top:1%;
+color:white;
+}
